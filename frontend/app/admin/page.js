@@ -48,7 +48,7 @@ export default function AdminPage() {
 
   const [deleteConfirm, setDeleteConfirm] = useState(null);
 
-  // Init from localStorage
+  
   useEffect(() => {
     const t = getToken();
     if (t) setTokenState(t);
