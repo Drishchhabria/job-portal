@@ -1,0 +1,68 @@
+{
+  "jobs": [
+    {
+      "id": "65a97508-4c83-4504-9b53-901427545799",
+      "title": "Frontend Engineer",
+      "department": "Engineering",
+      "location": "Remote",
+      "type": "Full-Time",
+      "experience": "2–4 years",
+      "salary": "$80,000 – $110,000",
+      "description": "Join our product team to craft beautiful, performant interfaces. You'll work closely with designers and backend engineers to ship features that delight users.",
+      "requirements": "React, TypeScript, Tailwind CSS, REST APIs, Git workflow, eye for design, strong communication skills",
+      "is_active": 1,
+      "created_at": "2026-03-10T15:06:16.697Z"
+    },
+    {
+      "id": "b664b4e1-884a-4157-81a8-5d457fc2afcd",
+      "title": "Backend Engineer",
+      "department": "Engineering",
+      "location": "New York, NY (Hybrid)",
+      "type": "Full-Time",
+      "experience": "3–5 years",
+      "salary": "$95,000 – $130,000",
+      "description": "Design and build the systems that power Unizoy at scale. Own entire features from database schema to API design, collaborating across teams.",
+      "requirements": "Node.js or Python, PostgreSQL, REST & GraphQL, Docker, AWS or GCP, system design fundamentals",
+      "is_active": 1,
+      "created_at": "2026-03-10T15:06:16.697Z"
+    },
+    {
+      "id": "c30442d5-c863-48b6-939f-5c800f3e8268",
+      "title": "Product Design Intern",
+      "department": "Design",
+      "location": "Remote",
+      "type": "Internship",
+      "experience": "0–1 year",
+      "salary": "$25/hr",
+      "description": "A 3-month internship embedded in our design team. You'll run user research sessions, create wireframes and prototypes, and ship real UI to production.",
+      "requirements": "Figma proficiency, basic UX principles, portfolio of projects, curiosity, willingness to give and receive feedback",
+      "is_active": 1,
+      "created_at": "2026-03-10T15:06:16.697Z"
+    },
+    {
+      "id": "34208e2c-3f72-4941-88c6-7b2cf40c5a74",
+      "title": "ai",
+      "department": "Engg",
+      "location": "remote",
+      "type": "Full-Time",
+      "experience": "0-1",
+      "salary": null,
+      "description": "ada",
+      "requirements": "ada",
+      "is_active": 1,
+      "created_at": "2026-03-10T15:50:11.598Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "b0da80ff-5fec-4c1b-b867-04e97c3c5c73",
+      "job_id": "65a97508-4c83-4504-9b53-901427545799",
+      "name": "Drisht",
+      "email": "dishuchhabria7@gmail.com",
+      "resume_link": "http://localhost:3000/jobs/65a97508-4c83-4504-9b53-901427545799",
+      "cover_note": null,
+      "status": "shortlisted",
+      "applied_at": "2026-03-10T15:50:54.785Z"
+    }
+  ]
+}
